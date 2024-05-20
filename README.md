@@ -1,3 +1,5 @@
+MovizFlix
+
 Welcome to the Movie App! This application fetches data from The Movie Database (TMDB) API to provide users with popular movies and TV show recommendations. It also includes IMDb ratings, trailers, and popular clips for an enhanced viewing experience.
 
 FEATURES - 
